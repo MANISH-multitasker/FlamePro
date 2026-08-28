@@ -1,0 +1,35 @@
+# dependencies
+node_modules
+.pnpm-store
+
+# env files (secrets)
+.env
+.env.*
+!.env.example
+
+# next.js
+.next
+out
+
+# prisma generated client (regenerated on install/build)
+/lib/generated/prisma
+
+# vercel
+.vercel
+
+# debug / logs
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# os / editor
+.DS_Store
+Thumbs.db
+*.swp
+.idea
+.vscode
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts

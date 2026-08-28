@@ -1,0 +1,26 @@
+# DISCORD_WEBHOOK_URL=https://discordapp.com/api/webhooks/1536078644009766983/d7ujphhJ-FXOcE6daAurGO4kMQ6YM7klNes0WnvMLhtWzEuLIMWliniGhDrWOevTKJho
+DISCORD_WEBHOOK_URL=https://discord.com/api/webhooks/1536026566323077180/5XygfB90GXBEHWWCt9SnEa93megrPvXEPbjynDdJm87fex_0l5Ln_becsK-k69sR9B2V
+
+
+DISCORD_WEBHOOK_URL_REGIONAL_STAFF="https://discord.com/api/webhooks/1536804294974771304/ozOLHMbUZc9-Eg7sRhfbbcBya4AvIL169FP7FJ1ZvF_MlG9F6bKXDob6kNT5kLjJz_9B"
+
+DISCORD_WEBHOOK_URL_EMS="https://discord.com/api/webhooks/1536804017982672936/MXepgc_7o6WMFHtMfz0izOLLNRVa4JUwGa7kZiOxBp4qBHulIwQJolOAqfqLQxwPNC9V"
+
+DISCORD_WEBHOOK_URL_PD="https://discord.com/api/webhooks/1536803005540728842/yPbfTV57QSM6nkf7Hk5tN09pHME9RFsjfpIhj9wxn-DiMP7cCiZbn2DbfuWEHUoMcbq-"
+
+
+DATABASE_URL="postgresql://neondb_owner:npg_7EdsbO5SmLex@ep-dark-salad-axakd5ap-pooler.c-4.us-east-2.aws.neon.tech/neondb?sslmode=require&channel_binding=require"
+
+BETTER_AUTH_SECRET="BlX5yOaucHIRVel48rGfUsD7cyFsz6Ae"
+
+BETTER_AUTH_URL="http://localhost:3000/" 
+NEXT_PUBLIC_BETTER_AUTH_CLIENT_URL="http://localhost:3000"
+
+DISCORD_CLIENT_ID="1536517299824230430"
+DISCORD_CLIENT_SECRET="ahRZUmDKxHyHqvFAhrpAwGOp__m0QJJN"
+
+ADMIN_DISCORD_ID="1289624252114534548"
+MASTER_ADMIN_DISCORD_ID="1289624252114534548"
+
+# Admin panel password — change this to something strong!
+ADMIN_PASSWORD="flamereignite2026"
